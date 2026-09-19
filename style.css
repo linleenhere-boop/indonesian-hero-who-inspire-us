@@ -1,0 +1,23 @@
+body {
+    background-color:maroon;
+    font-family: monospace;
+    padding-bottom: 30px;
+    padding: 0px 5% 30px;
+}
+
+h1 {
+    color:khaki;
+    text-align: center;
+}
+
+h2 {
+  color:khaki;
+}
+
+img {
+   width:250px;
+}
+
+
+
+
